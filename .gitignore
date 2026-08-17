@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Airflow
+logs/
+
+# Data
+data/raw/*
+data/staging/*
+data/warehouse/*
+
+# Keep folders
+!data/raw/.gitkeep
+!data/staging/.gitkeep
+!data/warehouse/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
