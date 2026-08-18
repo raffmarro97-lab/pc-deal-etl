@@ -589,6 +589,6 @@ The final output is an automated pipeline capable of producing a ranked analytic
 # 👨‍💻 Author
 
 **Raffaele Marro**  
-Data Engineer | Databricks | PySpark | Delta Lake
+Data Engineer | ETL Pipelines | Apache Airflow | Python | Docker | DuckDB
 
 [LinkedIn](https://www.linkedin.com/in/raffaele-marro-6b1681282/)
